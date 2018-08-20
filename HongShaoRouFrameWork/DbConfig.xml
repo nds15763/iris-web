@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers serversname="mysql">
+    <server servername="DefaultConnection">
+        <host>127.0.0.1</host>
+        <port>9201</port>
+        <database>admin</database>
+        <charset>utf8</charset>
+        <user>sa</user>
+        <password>1qaz!QAZ</password>
+    </server>
+</servers>
